@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Same construction as the Project Notes icon (its create_icon.py): an
+       accent square inset 12%, a paper glyph on the square's 18-unit grid,
+       and a "+" registration mark centred on each corner (arm 11% of the
+       side, stroke 1/128 of the canvas). The glyph is a solid, square-cornered
+       take on the Lucide "network" icon from the header. -->
+  <g transform="translate(61.44 61.44) scale(21.6178)">
+    <rect width="18" height="18" fill="#5980a6"/>
+
+    <g fill="#f2f2f3">
+      <rect x="7.5" y="4" width="3" height="3"/>
+      <rect x="8.25" y="7" width="1.5" height="1.5"/>
+      <rect x="4.75" y="8.5" width="8.5" height="1.5"/>
+      <rect x="4.75" y="10" width="1.5" height="1"/>
+      <rect x="11.75" y="10" width="1.5" height="1"/>
+      <rect x="4" y="11" width="3" height="3"/>
+      <rect x="11" y="11" width="3" height="3"/>
+    </g>
+
+    <g stroke="#828384" stroke-width="0.185" fill="none">
+      <path d="M-1.98 0H1.98M0 -1.98V1.98"/>
+      <path d="M16.02 0H19.98M18 -1.98V1.98"/>
+      <path d="M-1.98 18H1.98M0 16.02V19.98"/>
+      <path d="M16.02 18H19.98M18 16.02V19.98"/>
+    </g>
+  </g>
+</svg>
