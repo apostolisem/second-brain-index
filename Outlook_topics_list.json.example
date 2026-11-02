@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "name": "01 - Projects",
+      "topics": [
+        "P - Vehicle Maintenance",
+        "P - Home Inventory"
+      ]
+    },
+    {
+      "name": "02 - Areas",
+      "topics": [
+        "A - Health",
+        "A - Finance"
+      ]
+    },
+    {
+      "name": "03 - Resources",
+      "topics": [
+        "R - Gardening",
+        "R - Travel"
+      ]
+    },
+    {
+      "name": "04 - Archive",
+      "topics": [
+        "A - Old Plans"
+      ]
+    }
+  ]
+}
